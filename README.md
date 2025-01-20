@@ -21,24 +21,7 @@ The model is compiled using the Adam optimizer with a learning rate of 0.1. The 
 
 The model is trained on the dataset and evaluated on validation and test sets. The results include the loss, error metrics, and price predictions for second-hand cars.
 
-## Usage
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/price-prediction-second-hand-cars.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd price-prediction-second-hand-cars
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the training script:
-   ```bash
-   python train_model.py
-   ```
 
 ## Results
 
